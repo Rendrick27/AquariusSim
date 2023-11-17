@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 # GROMACS Simulation Script
 # This script automates the setup and execution of a GROMACS simulation.
 
